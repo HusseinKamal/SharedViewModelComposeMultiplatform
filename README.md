@@ -12,3 +12,10 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+# Compose multiplatform with shared viewmodel
+
+- App show how to share viewmodel between all platforms like Android and IOS.
+- App use Koin dependency injection.
+  
+- [SharedViewModel.webm](https://github.com/HusseinKamal/SharedViewModelComposeMultiplatform/assets/29864161/d3b027fb-5764-4456-8676-6c6ca40e64b1)
